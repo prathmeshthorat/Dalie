@@ -1,1 +1,2 @@
-# Gram
+# Dalie: A photo sharing app
+
